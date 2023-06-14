@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Asped\\dz_c#\\dz_c#.csproj": {}
+    "C:\\Users\\Asped\\dz_c#\\dz1\\dz_c#.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Asped\\dz_c#\\dz_c#.csproj": {
+    "C:\\Users\\Asped\\dz_c#\\dz1\\dz_c#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Asped\\dz_c#\\dz_c#.csproj",
+        "projectUniqueName": "C:\\Users\\Asped\\dz_c#\\dz1\\dz_c#.csproj",
         "projectName": "dz_c#",
-        "projectPath": "C:\\Users\\Asped\\dz_c#\\dz_c#.csproj",
+        "projectPath": "C:\\Users\\Asped\\dz_c#\\dz1\\dz_c#.csproj",
         "packagesPath": "C:\\Users\\Asped\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Asped\\dz_c#\\obj\\",
+        "outputPath": "C:\\Users\\Asped\\dz_c#\\dz1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Asped\\AppData\\Roaming\\NuGet\\NuGet.Config"
