@@ -1,0 +1,15 @@
+C:\Users\Asped\dz_c#\dz 4\bin\Debug\net7.0\dz 4.exe
+C:\Users\Asped\dz_c#\dz 4\bin\Debug\net7.0\dz 4.deps.json
+C:\Users\Asped\dz_c#\dz 4\bin\Debug\net7.0\dz 4.runtimeconfig.json
+C:\Users\Asped\dz_c#\dz 4\bin\Debug\net7.0\dz 4.dll
+C:\Users\Asped\dz_c#\dz 4\bin\Debug\net7.0\dz 4.pdb
+C:\Users\Asped\dz_c#\dz 4\obj\Debug\net7.0\dz 4.csproj.AssemblyReference.cache
+C:\Users\Asped\dz_c#\dz 4\obj\Debug\net7.0\dz 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asped\dz_c#\dz 4\obj\Debug\net7.0\dz 4.AssemblyInfoInputs.cache
+C:\Users\Asped\dz_c#\dz 4\obj\Debug\net7.0\dz 4.AssemblyInfo.cs
+C:\Users\Asped\dz_c#\dz 4\obj\Debug\net7.0\dz 4.csproj.CoreCompileInputs.cache
+C:\Users\Asped\dz_c#\dz 4\obj\Debug\net7.0\dz 4.dll
+C:\Users\Asped\dz_c#\dz 4\obj\Debug\net7.0\refint\dz 4.dll
+C:\Users\Asped\dz_c#\dz 4\obj\Debug\net7.0\dz 4.pdb
+C:\Users\Asped\dz_c#\dz 4\obj\Debug\net7.0\dz 4.genruntimeconfig.cache
+C:\Users\Asped\dz_c#\dz 4\obj\Debug\net7.0\ref\dz 4.dll
