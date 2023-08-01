@@ -1,0 +1,15 @@
+C:\Users\Asped\dz_c#\controlnaz\bin\Debug\net7.0\controlnaz.exe
+C:\Users\Asped\dz_c#\controlnaz\bin\Debug\net7.0\controlnaz.deps.json
+C:\Users\Asped\dz_c#\controlnaz\bin\Debug\net7.0\controlnaz.runtimeconfig.json
+C:\Users\Asped\dz_c#\controlnaz\bin\Debug\net7.0\controlnaz.dll
+C:\Users\Asped\dz_c#\controlnaz\bin\Debug\net7.0\controlnaz.pdb
+C:\Users\Asped\dz_c#\controlnaz\obj\Debug\net7.0\controlnaz.csproj.AssemblyReference.cache
+C:\Users\Asped\dz_c#\controlnaz\obj\Debug\net7.0\controlnaz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asped\dz_c#\controlnaz\obj\Debug\net7.0\controlnaz.AssemblyInfoInputs.cache
+C:\Users\Asped\dz_c#\controlnaz\obj\Debug\net7.0\controlnaz.AssemblyInfo.cs
+C:\Users\Asped\dz_c#\controlnaz\obj\Debug\net7.0\controlnaz.csproj.CoreCompileInputs.cache
+C:\Users\Asped\dz_c#\controlnaz\obj\Debug\net7.0\controlnaz.dll
+C:\Users\Asped\dz_c#\controlnaz\obj\Debug\net7.0\refint\controlnaz.dll
+C:\Users\Asped\dz_c#\controlnaz\obj\Debug\net7.0\controlnaz.pdb
+C:\Users\Asped\dz_c#\controlnaz\obj\Debug\net7.0\controlnaz.genruntimeconfig.cache
+C:\Users\Asped\dz_c#\controlnaz\obj\Debug\net7.0\ref\controlnaz.dll

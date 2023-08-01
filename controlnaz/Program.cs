@@ -14,3 +14,18 @@ for (int i = 0; i < pr.GetLength(0); i++)
 return pr;
 }
 
+
+
+string [] print2 =   print(bart);
+
+void PrintArray(string[] array)
+{
+    for (int i = 0; i < array.GetLength(0); i++)
+ Console.Write($"{array[i]} ");
+
+ Console.WriteLine();
+    }
+
+PrintArray(print2);
+        
+  
